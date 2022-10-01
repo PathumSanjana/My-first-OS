@@ -1,1 +1,2 @@
-# My-first-OS
+# MyOS
+Design a Simple Operating System 
